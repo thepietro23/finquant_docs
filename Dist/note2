@@ -1,0 +1,630 @@
+# Chapter-Specific Sub-Prompts for M.Tech Dissertation
+
+Ab main har chapter ke liye dedicated sub-prompt bana raha hoon. Ye master prompt ke saath use honge, lekin har ek apne chapter ke specific writing style aur structure ko target karega.
+
+Pehle main aapko ek important baat samjhata hoon. Har dissertation chapter ka apna character hota hai. Introduction emotional aur context-setting hoti hai. Literature review analytical hoti hai. Methodology procedural hoti hai. Results data-driven hoti hai. Conclusion reflective hoti hai. Agar ek hi style se sab likhenge toh dissertation flat lagega aur viva mein bhi guide pakad lega.
+
+Toh chaliye ek ek karke dekhte hain.
+
+---
+
+## SUB-PROMPT 1: CHAPTER 1 — INTRODUCTION
+
+```
+You are writing CHAPTER 1: INTRODUCTION for an M.Tech dissertation.
+All rules from the master prompt apply. Additional rules below are 
+specific to this chapter.
+
+================================================================
+PURPOSE OF THIS CHAPTER
+================================================================
+
+The introduction sets the stage. It tells the reader what problem 
+the project solves, why it matters in the Indian or global context, 
+and what the dissertation will cover. It does not go deep into 
+technical details. That comes later.
+
+================================================================
+EXPECTED STRUCTURE (FOLLOW IN ORDER)
+================================================================
+
+1.1 Background of the Work
+    - Real-world context of the problem
+    - Why this area is relevant today
+    - Should feel grounded, not generic
+    - Avoid lines like "In recent years, technology has advanced..."
+    - Start with a specific observation or problem
+
+1.2 Motivation
+    - Personal or technical reason for choosing this topic
+    - Can mention a real problem the student observed
+    - Should sound genuine, not forced
+
+1.3 Problem Statement
+    - One clear paragraph stating exactly what problem is being solved
+    - Should be specific, not vague
+    - Avoid generic statements like "there is a need for better systems"
+
+1.4 Objectives of the Work
+    - List the main objectives (3 to 5 usually)
+    - Each objective should be actionable and measurable
+    - Use simple verbs like develop, design, analyze, implement, evaluate
+
+1.5 Scope of the Work
+    - What the project covers
+    - What it does not cover (limitations of scope)
+
+1.6 Organization of the Dissertation
+    - Brief paragraph describing what each chapter contains
+    - Keep it short, two to four lines per chapter
+    - Avoid mechanical "Chapter 2 deals with... Chapter 3 deals with..." 
+      pattern. Mix it up naturally.
+
+================================================================
+WRITING STYLE FOR THIS CHAPTER
+================================================================
+
+1. Tone is slightly narrative. The introduction tells a story of 
+   why this work exists.
+2. Avoid heavy technical jargon. Save that for later chapters.
+3. Use first chapter to build context, not to prove expertise.
+4. Mix short reflective sentences with longer descriptive ones.
+5. Indian context can be added where relevant, like mentioning 
+   challenges faced in Indian industries, healthcare, agriculture, 
+   power sector, etc., if the project relates.
+
+================================================================
+COMMON MISTAKES TO AVOID
+================================================================
+
+1. Do not write a generic technology overview. The introduction 
+   is about THIS project, not the field in general.
+2. Do not repeat the abstract here.
+3. Do not list every technical detail of the methodology.
+4. Do not make the motivation section sound like a sales pitch.
+5. Do not use "we" excessively. Use "the present work", "this 
+   dissertation", "the proposed system".
+
+================================================================
+
+Now write Chapter 1 Introduction following all the rules above 
+and the master prompt rules. Begin directly with the chapter content.
+```
+
+---
+
+## SUB-PROMPT 2: CHAPTER 2 — LITERATURE REVIEW
+
+```
+You are writing CHAPTER 2: LITERATURE REVIEW for an M.Tech dissertation.
+All rules from the master prompt apply. Additional rules below are 
+specific to this chapter.
+
+================================================================
+PURPOSE OF THIS CHAPTER
+================================================================
+
+The literature review shows that the student has studied existing 
+work, understands what has been done, and identifies the gap that 
+this dissertation fills. It should sound analytical, not like a 
+list of summaries.
+
+================================================================
+EXPECTED STRUCTURE (FOLLOW IN ORDER)
+================================================================
+
+2.1 Introduction to the Chapter
+    - Two or three lines explaining what this chapter does
+    - Mention the categories of work reviewed
+
+2.2 Review of Existing Methods (or Related Work)
+    - Group the literature into themes or approaches
+    - Discuss each theme with two to four representative works
+    - Do not list papers one by one. Group them by idea.
+
+2.3 Comparative Analysis
+    - Compare the strengths and weaknesses of different approaches
+    - A simple comparison table is acceptable here if needed
+    - Discuss what works well and what does not
+
+2.4 Research Gap Identified
+    - Clearly state what is missing in existing work
+    - This gap must connect to the problem statement of Chapter 1
+    - One or two paragraphs is enough
+
+2.5 Summary
+    - Short paragraph closing the chapter
+    - Lead the reader into the methodology chapter
+
+================================================================
+WRITING STYLE FOR THIS CHAPTER
+================================================================
+
+1. Tone is analytical and slightly critical. Not negative, but 
+   evaluative.
+2. When discussing a paper, do not just summarize it. Comment on 
+   what it contributed and what it missed.
+3. Use phrases like "the authors proposed", "this approach showed", 
+   "however, the method did not address", "a limitation of this 
+   work was".
+4. Avoid copying abstract-style language from papers.
+5. Vary how you introduce each work. Do not start every paragraph 
+   with "The authors of [X] proposed...". Mix it up.
+
+================================================================
+CITATION HANDLING
+================================================================
+
+1. Use placeholders for citations like [1], [2], [3] in IEEE style 
+   or (Author, Year) in APA style based on user's requirement.
+2. If the user has not provided actual citations, write 
+   [Add reference] in the text where a citation should appear.
+3. Never invent author names, paper titles, journal names, or years.
+4. If you mention a specific technique, link it to a placeholder 
+   citation so the student can fill it in later.
+
+================================================================
+COMMON MISTAKES TO AVOID
+================================================================
+
+1. Do not write a paper-by-paper summary. Group by themes.
+2. Do not copy phrases from abstracts. Rewrite everything.
+3. Do not say "many researchers have worked on this" without naming 
+   approaches.
+4. Do not make the gap section vague. Be specific about what is 
+   missing.
+5. Do not use the same sentence structure for every paragraph.
+6. Avoid generic transitions between papers. Let the analysis flow 
+   naturally.
+
+================================================================
+PLAGIARISM SPECIAL CARE
+================================================================
+
+Literature review is the most plagiarism-prone chapter because 
+students often paraphrase paper abstracts directly. To avoid this:
+
+1. Read the user's input about the paper, then explain it in your 
+   own words as if telling a friend.
+2. Change sentence order completely.
+3. Use Indian English phrasing instead of journal-style phrasing.
+4. Never keep more than three consecutive words from any standard 
+   technical description.
+
+================================================================
+
+Now write Chapter 2 Literature Review following all the rules above 
+and the master prompt rules. Begin directly with the chapter content.
+```
+
+---
+
+## SUB-PROMPT 3: CHAPTER 3 — METHODOLOGY / PROPOSED WORK
+
+```
+You are writing CHAPTER 3: METHODOLOGY (or Proposed Work / System 
+Design) for an M.Tech dissertation. All rules from the master prompt 
+apply. Additional rules below are specific to this chapter.
+
+================================================================
+PURPOSE OF THIS CHAPTER
+================================================================
+
+This chapter explains exactly how the proposed work was designed and 
+implemented. It is the technical heart of the dissertation. The 
+reader should be able to understand the method clearly enough to 
+imagine reproducing it.
+
+================================================================
+EXPECTED STRUCTURE (ADAPT TO PROJECT TYPE)
+================================================================
+
+3.1 Introduction to the Chapter
+    - Brief overview of what the chapter explains
+
+3.2 Proposed System Architecture or Block Diagram
+    - High-level description of the system
+    - Mention each block and its role
+    - Reference a block diagram with [Insert Figure 3.1]
+
+3.3 Detailed Description of Each Module or Stage
+    - For each block, write a sub-section explaining its function
+    - Cover inputs, outputs, internal processing
+    - Use technical depth appropriate for M.Tech level
+
+3.4 Algorithms or Mathematical Formulation
+    - Present any equations using proper notation
+    - Use [Insert Equation 3.1] style placeholders if needed
+    - Explain what each variable represents
+    - For algorithms, present them in a clean step-by-step manner
+
+3.5 Tools, Hardware, or Software Used
+    - List the tools with their versions if known
+    - Briefly justify why each tool was chosen
+
+3.6 Implementation Details
+    - Specific configuration, parameter values, dataset details
+    - Any preprocessing steps
+    - Training parameters if ML based, simulation parameters if 
+      circuit based, etc.
+
+3.7 Summary
+    - Short paragraph leading to the results chapter
+
+================================================================
+WRITING STYLE FOR THIS CHAPTER
+================================================================
+
+1. Tone is precise and technical, but still readable.
+2. Use present tense when describing the system. "The system takes 
+   the input image and applies preprocessing." Not past tense.
+3. Be specific about parameters, sizes, dimensions, configurations.
+4. Each module description should follow this rough flow: what it 
+   does, how it does it, why this approach was chosen.
+5. Avoid vague phrases like "appropriate techniques are used" or 
+   "suitable parameters are selected". Always specify.
+
+================================================================
+TECHNICAL ACCURACY RULES (EXTRA STRICT HERE)
+================================================================
+
+1. Keep all technical names exactly as the user provided.
+2. Do not invent algorithm names or technique names.
+3. Do not change parameter values from what the user mentioned.
+4. If a parameter value is not given, write [Specify parameter value] 
+   instead of guessing.
+5. Equations must be technically correct. If unsure about an 
+   equation, write [Verify equation with guide] instead of 
+   producing a wrong one.
+6. Do not invent dataset names or sizes.
+
+================================================================
+DIAGRAMS AND FIGURES
+================================================================
+
+1. Reference figures naturally in text, like "as shown in Figure 3.1".
+2. Use [Insert Figure 3.X: short description] as placeholder.
+3. Do not try to draw ASCII diagrams.
+4. Mention what the figure should contain so the student can create 
+   it later.
+
+================================================================
+COMMON MISTAKES TO AVOID
+================================================================
+
+1. Do not write generic descriptions of standard algorithms. If you 
+   describe CNN, do not write a textbook explanation of CNN. Describe 
+   how CNN is used in this specific project.
+2. Do not skip the justification of design choices.
+3. Do not use bullet points for everything. Mix prose and structured 
+   lists.
+4. Do not copy standard architecture descriptions from papers.
+5. Avoid making the chapter read like a manual. It should read like 
+   a research design document.
+
+================================================================
+
+Now write Chapter 3 Methodology following all the rules above 
+and the master prompt rules. Begin directly with the chapter content.
+```
+
+---
+
+## SUB-PROMPT 4: CHAPTER 4 — RESULTS AND DISCUSSION
+
+```
+You are writing CHAPTER 4: RESULTS AND DISCUSSION for an M.Tech 
+dissertation. All rules from the master prompt apply. Additional 
+rules below are specific to this chapter.
+
+================================================================
+PURPOSE OF THIS CHAPTER
+================================================================
+
+This chapter presents the actual experimental or simulation results 
+of the work described in Chapter 3. It also discusses what the 
+results mean. The reader should understand both what happened and 
+why it happened.
+
+================================================================
+EXPECTED STRUCTURE
+================================================================
+
+4.1 Introduction to the Chapter
+    - Brief overview of what experiments were done and what is 
+      being presented
+
+4.2 Experimental Setup
+    - Hardware or software environment used
+    - Dataset details if applicable
+    - Evaluation metrics used and why
+
+4.3 Results
+    - Present results clearly
+    - Use tables and figures references with placeholders
+    - Each result should have context, the number, and a comment 
+      on what it shows
+
+4.4 Comparison with Existing Methods
+    - Compare your results with baseline methods or prior work
+    - Use a comparison table if helpful
+    - Be honest about where the proposed method does better and 
+      where it does not
+
+4.5 Discussion
+    - Why did the results turn out this way
+    - What worked well and why
+    - What did not work as expected and possible reasons
+    - This section shows research thinking. Do not skip it.
+
+4.6 Summary
+    - Short closing paragraph
+
+================================================================
+HANDLING RESULTS DATA (CRITICAL)
+================================================================
+
+1. NEVER fabricate accuracy values, error rates, or any numerical 
+   results.
+2. If the user provides actual results, use them exactly.
+3. If the user does not provide results, use placeholders like 
+   [Insert accuracy value], [Insert simulation result], 
+   [Insert graph from MATLAB output].
+4. Do not make up percentage improvements. Do not invent comparison 
+   numbers.
+5. Even if a number sounds reasonable, do not write it unless the 
+   user has confirmed it.
+
+================================================================
+WRITING STYLE FOR THIS CHAPTER
+================================================================
+
+1. Tone is factual and analytical.
+2. Use past tense when describing what was done. "The model was 
+   trained on the dataset for 50 epochs."
+3. Use present tense when interpreting results. "The result shows 
+   that the proposed method performs better at lower noise levels."
+4. Be honest in discussion. If a method has limitations, mention them.
+5. Avoid exaggerated claims like "the method outperformed all 
+   existing approaches" unless the data clearly supports it.
+
+================================================================
+TABLES AND FIGURES
+================================================================
+
+1. Reference each table and figure properly.
+2. Use [Insert Table 4.X: short description] for tables.
+3. Use [Insert Figure 4.X: short description] for figures.
+4. Mention what data the table or figure should contain so the 
+   student can create it.
+5. Do not produce a table with fake values. Either use user's 
+   values or insert a placeholder table structure.
+
+================================================================
+DISCUSSION SECTION GUIDANCE
+================================================================
+
+The discussion section is what separates a good dissertation from 
+an average one. Most students rush through this. Do not.
+
+For each major result:
+- State the result briefly
+- Explain why this happened technically
+- Connect it to the design choice in Chapter 3
+- Mention any limitation observed
+
+This is where the student shows research maturity.
+
+================================================================
+COMMON MISTAKES TO AVOID
+================================================================
+
+1. Do not just dump numbers without explaining them.
+2. Do not write a separate results section that has no link to 
+   the discussion.
+3. Do not claim improvements without supporting numbers.
+4. Do not invent statistical significance or p-values.
+5. Do not copy comparison tables from existing papers.
+6. Avoid making the chapter feel like a lab report. It should 
+   feel like a research analysis.
+
+================================================================
+
+Now write Chapter 4 Results and Discussion following all the rules 
+above and the master prompt rules. Begin directly with the chapter 
+content.
+```
+
+---
+
+## SUB-PROMPT 5: CHAPTER 5 — CONCLUSION AND FUTURE WORK
+
+```
+You are writing CHAPTER 5: CONCLUSION AND FUTURE WORK for an M.Tech 
+dissertation. All rules from the master prompt apply. Additional 
+rules below are specific to this chapter.
+
+================================================================
+PURPOSE OF THIS CHAPTER
+================================================================
+
+This chapter closes the dissertation. It summarizes what was done, 
+what was achieved, what limitations exist, and what can be done 
+in the future. It is short but important. The viva committee often 
+opens by asking questions from this chapter.
+
+================================================================
+EXPECTED STRUCTURE
+================================================================
+
+5.1 Conclusion
+    - Brief summary of the work done
+    - Main findings or outcomes
+    - How the objectives stated in Chapter 1 were met
+    - One paragraph per major outcome
+
+5.2 Contribution of the Work
+    - What new thing this dissertation adds
+    - Be honest. M.Tech contributions are usually modest. That is okay.
+    - Avoid claims like "first ever" or "novel breakthrough".
+
+5.3 Limitations of the Work
+    - Be transparent about what the project could not achieve
+    - This is a sign of research honesty, not weakness
+
+5.4 Future Scope
+    - Specific directions in which the work can be extended
+    - Should be realistic and connected to the actual project
+    - Two to four future directions are enough
+
+================================================================
+WRITING STYLE FOR THIS CHAPTER
+================================================================
+
+1. Tone is reflective and slightly closing in nature.
+2. Sentences are mostly medium length.
+3. Use past tense when summarizing what was done.
+4. Use future tense or conditional when discussing future work.
+5. Keep it concise. This chapter is usually 800 to 1500 words.
+6. Do not introduce any new technical concept here that was not 
+   discussed earlier.
+
+================================================================
+WHAT TO INCLUDE FROM EARLIER CHAPTERS
+================================================================
+
+1. Echo the objectives from Chapter 1, but rephrased.
+2. Mention key results from Chapter 4 briefly, without repeating 
+   numbers in detail.
+3. Connect back to the research gap identified in Chapter 2.
+
+================================================================
+FUTURE WORK GUIDANCE
+================================================================
+
+Good future work suggestions are:
+- Specific, not vague
+- Connected to actual limitations of the present work
+- Realistically achievable
+- Not just listing more datasets or more parameters
+
+Examples of weak future work:
+- "Test on more datasets"
+- "Use better hardware"
+- "Improve accuracy"
+
+Examples of stronger future work:
+- "Extend the method to handle dynamic input scenarios where the 
+  signal characteristics change over time"
+- "Investigate the integration of the proposed module with edge 
+  computing platforms for real-time deployment"
+
+================================================================
+COMMON MISTAKES TO AVOID
+================================================================
+
+1. Do not repeat the abstract here.
+2. Do not introduce new technical content.
+3. Do not write a generic conclusion that could fit any project.
+4. Do not exaggerate the contribution.
+5. Avoid clichés like "this work opens new avenues" or "the future 
+   holds great potential".
+6. Do not list too many future directions. Three or four solid 
+   ones are better than ten weak ones.
+
+================================================================
+
+Now write Chapter 5 Conclusion and Future Work following all the 
+rules above and the master prompt rules. Begin directly with the 
+chapter content.
+```
+
+---
+
+## BONUS SUB-PROMPT: ABSTRACT
+
+Yeh chhota hai lekin sabse important hai. Pehli cheez hai jo evaluator padhta hai.
+
+```
+You are writing the ABSTRACT for an M.Tech dissertation. All rules 
+from the master prompt apply. Additional rules below are specific 
+to the abstract.
+
+================================================================
+PURPOSE
+================================================================
+
+The abstract is a short standalone summary of the entire dissertation.
+It is read by evaluators, external examiners, and anyone scanning 
+the work. It must be self-contained.
+
+================================================================
+STRUCTURE (NO HEADINGS, ONE FLOWING TEXT)
+================================================================
+
+The abstract should cover, in this order, in flowing prose:
+
+1. Context and problem (1 to 2 sentences)
+2. The gap or motivation (1 sentence)
+3. What was proposed in this work (2 to 3 sentences)
+4. How it was implemented (1 to 2 sentences)
+5. Key results achieved (1 to 2 sentences)
+6. Conclusion or significance (1 sentence)
+
+================================================================
+LENGTH AND FORMAT
+================================================================
+
+1. Total length: 200 to 300 words. Strictly within this range.
+2. Single paragraph. No headings. No bullet points.
+3. No citations in the abstract.
+4. No equations or figures referenced.
+5. Add a "Keywords:" line at the bottom with 4 to 6 keywords 
+   separated by commas.
+
+================================================================
+WRITING STYLE
+================================================================
+
+1. Use past tense for what was done. Present tense for what the 
+   work demonstrates.
+2. Be specific. Avoid vague phrases like "good results were obtained".
+3. If the user has provided actual numerical results, include them 
+   briefly. Otherwise, describe results qualitatively.
+4. Tone is formal and dense. Every sentence carries weight.
+
+================================================================
+COMMON MISTAKES TO AVOID
+================================================================
+
+1. Do not write a generic introduction here.
+2. Do not reference any chapter or figure.
+3. Do not use phrases like "in this paper" or "this thesis presents". 
+   Instead, use "the present work" or "this dissertation".
+4. Do not promise things that the dissertation does not deliver.
+
+================================================================
+
+Now write the abstract following all rules above and the master 
+prompt rules. Begin directly with the abstract content.
+```
+
+---
+
+## Bonus tip jo aapko viva mein bachayega
+
+Ek aur cheez share kar deta hoon jo bahut students miss karte hain. Jab aap in prompts se content generate karoge, toh **har chapter ke baad ek kaam zaroor karna**.
+
+Apni notebook utha lo, aur generated content ko padhte hue 5 ya 6 chhote bullet points likho jo bilkul aapke apne haath se hon. Yeh viva ke liye aapka cheat sheet ban jayega. Examiner jab puchega "iss chapter mein aapne kya kiya", toh aapko AI generated content yaad nahi karna padega. Aapko apne notes yaad karne padenge, jo chapter ke saath naturally align hote hain.
+
+Yeh ek detail hai jo aapko safe rakhegi.
+
+---
+
+Toh ab aapke paas yeh poora setup ho gaya:
+
+Ek master prompt jo overall rules define karta hai. Paanch chapter-specific sub-prompts (Introduction, Literature Review, Methodology, Results, Conclusion). Ek bonus abstract prompt.
+
+Use kaise karenge: Pehle master prompt set karo, phir jis chapter ka content chahiye uska sub-prompt use karo. Dono ek saath model ko denge taaki dono level ke rules apply hon.
+
+Kya aap chahte ho main ek **sample run** karke dikhau? Matlab ek dummy project leke (jaise "IoT based smart irrigation system" ya "CNN based diabetic retinopathy detection"), aur master prompt + Introduction sub-prompt use karke actual Chapter 1 likh ke dikhau? Isse aapko exact output style ka idea aa jayega aur aap dekh paoge ki yeh prompts kaisa content produce karenge.
